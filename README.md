@@ -1,4 +1,4 @@
-# Restaaurant App MVP
+# Restaurant App MVP
 
 ## 1. Project Description
 
